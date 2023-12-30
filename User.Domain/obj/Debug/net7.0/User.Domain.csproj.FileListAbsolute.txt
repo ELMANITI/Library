@@ -1,0 +1,12 @@
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\bin\Debug\net7.0\User.Domain.deps.json
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\bin\Debug\net7.0\User.Domain.dll
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\bin\Debug\net7.0\User.Domain.pdb
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\obj\Debug\net7.0\User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\obj\Debug\net7.0\User.Domain.AssemblyInfoInputs.cache
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\obj\Debug\net7.0\User.Domain.AssemblyInfo.cs
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\obj\Debug\net7.0\User.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\obj\Debug\net7.0\User.Domain.dll
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\obj\Debug\net7.0\refint\User.Domain.dll
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\obj\Debug\net7.0\User.Domain.pdb
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\obj\Debug\net7.0\ref\User.Domain.dll
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Domain\obj\Debug\net7.0\User.Domain.csproj.AssemblyReference.cache
