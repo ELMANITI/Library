@@ -1,3 +1,40 @@
 {
-
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/User",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5176
+        }
+      ],
+      "UpstreamPathTemplate": "/UsersDetails",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Role",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5176
+        }
+      ],
+      "UpstreamPathTemplate": "/RolesDetails",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/UsersRole",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5176
+        }
+      ],
+      "UpstreamPathTemplate": "/UsersRolesDetails",
+      "UpstreamHttpMethod": [ "GET" ]
+    }
+  ]
 }
