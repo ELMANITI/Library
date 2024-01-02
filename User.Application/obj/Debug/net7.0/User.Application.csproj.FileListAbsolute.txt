@@ -13,3 +13,4 @@ C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Application\obj\Debug\net7.0\User.A
 C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Application\obj\Debug\net7.0\refint\User.Application.dll
 C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Application\obj\Debug\net7.0\User.Application.pdb
 C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Application\obj\Debug\net7.0\ref\User.Application.dll
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Application\obj\Debug\net7.0\User.Application.sourcelink.json

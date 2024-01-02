@@ -83,3 +83,4 @@ C:\Users\DOUNIA\OneDrive\Bureau\Library\User.API\bin\Debug\net7.0\User.Infrastru
 C:\Users\DOUNIA\OneDrive\Bureau\Library\User.API\bin\Debug\net7.0\MediatR.dll
 C:\Users\DOUNIA\OneDrive\Bureau\Library\User.API\bin\Debug\net7.0\MediatR.Contracts.dll
 C:\Users\DOUNIA\OneDrive\Bureau\Library\User.API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.API\obj\Debug\net7.0\User.API.sourcelink.json

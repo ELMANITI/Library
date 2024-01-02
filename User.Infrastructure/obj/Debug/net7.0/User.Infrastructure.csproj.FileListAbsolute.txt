@@ -17,3 +17,4 @@ C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Infrastructure\obj\Debug\net7.0\Use
 C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Infrastructure\obj\Debug\net7.0\ref\User.Infrastructure.dll
 C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Infrastructure\bin\Debug\net7.0\User.Infrastructure.runtimeconfig.json
 C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Infrastructure\obj\Debug\net7.0\User.Infrastructure.genruntimeconfig.cache
+C:\Users\DOUNIA\OneDrive\Bureau\Library\User.Infrastructure\obj\Debug\net7.0\User.Infrastructure.sourcelink.json
